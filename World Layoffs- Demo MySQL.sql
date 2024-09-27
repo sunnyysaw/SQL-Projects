@@ -1,4 +1,4 @@
-SELECT *
+SELECT * 
 FROM world_layoffs.layoffs;
 
 -- 1. Remove duplicates
